@@ -41,7 +41,7 @@ Float16
 Storage
 Float32
 
-# Core-ML Model GoogleNetPlaces Predictions
+# Core-ML Model MobileNet Predictions
 
 - Input
 
